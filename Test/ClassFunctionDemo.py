@@ -17,7 +17,7 @@ class MyClass:
 
 # Access the class by declaring object x here
 x = MyClass("Shruti",30)
-print x.name        # Sakshi
+print x.name         # Sakshi
 x.sum(5, 4)          # 9
 
 # Accessing variables of self

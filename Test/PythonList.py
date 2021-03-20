@@ -1,4 +1,5 @@
-# List in Python uses : square brackets
+# List in Python uses : square brackets []
+# Ordered, indexed, changeable and can have duplicates
 
 my_list = ["Tokyo", "London", "New York"]
 
@@ -21,7 +22,11 @@ for val in my_list:
 # Printing length of list
 print len(my_list)         # 3
 
-# Inserting in the list :
+# To check if element is present in tuple
+print "Tokyo" in my_list       # True
+print "Mumbai" in my_list      # False
+
+# Insert operation :
 
 # Appending at the end
 my_list.append("Boston")
@@ -31,7 +36,7 @@ print my_list              # ['Tokyo', 'London', 'New Delhi', 'Boston']
 my_list.insert(2, "Durham")
 print  my_list             # ['Tokyo', 'London', 'Durham', 'New Delhi', 'Boston']
 
-# Remove operation :
+# Remove operation
 my_list.remove("Tokyo")
 print my_list              # ['London', 'Durham', 'New Delhi', 'Boston']
 
@@ -49,10 +54,10 @@ print my_list              # ['London', 'New Delhi']
 del my_list[1]
 print my_list              # ['London']
 
+# my_list.clear() clears the data of the entire list but it is added in python 3.
+
 # To Delete entire list
 del my_list
-
-# Clear also performs the same task as delete but it is added in python 3
 
 fruits = ["apples", "oranges", "cherry"]
 print fruits                                        # ['apples', 'oranges', 'cherry']
