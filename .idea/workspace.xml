@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/Test/PythonSet.py" description="# Remove operation :" line="32" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="c2abc848-bc46-4527-8f4a-f771eca504de" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/FirstSeleniumProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FirstSeleniumProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/ClassFunctionDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test/ClassFunctionDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/FirstSeleniumTest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/PythonList.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test/PythonList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/ClassFunctionDemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/GoogleSearchTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/SampleProjectUnitTest/GoogleSearchTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/PythonBasics1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/PythonBasics2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/PythonDictionary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/PythonFunctions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/PythonList.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/PythonSet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/PythonTuple.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,56 +59,38 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="FirstSeleniumTest" value="1" />
+          <entry key="FirstSeleniumTest" value="7" />
           <entry key="GoogleSearchTest" value="1" />
-          <entry key="py" value="14" />
+          <entry key="lastfailed" value="1" />
+          <entry key="py" value="106" />
+          <entry key="test_sample_fixture" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="15" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="114" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="FirstSeleniumTest" value="2" />
           <entry key="GoogleSearchTest" value="7" />
-          <entry key="py" value="4639" />
+          <entry key="dummy" value="10" />
+          <entry key="py" value="8278" />
+          <entry key="test_sample_fixture" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="4639" />
+          <entry key="PLAIN_TEXT" value="17" />
+          <entry key="Python" value="8302" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/GoogleSearchTest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-                <marker date="1616250278901" expanded="true" signature="146:408" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Test/PythonList.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -133,6 +116,22 @@
         <option value="$PROJECT_DIR$/Test/PythonTuple.py" />
         <option value="$PROJECT_DIR$/Test/GoogleSearchTest" />
         <option value="$PROJECT_DIR$/Test/GoogleSearchTest.py" />
+        <option value="$PROJECT_DIR$/SampleProjectUnitTest/GoogleSearchTest.HTMLReporter.py" />
+        <option value="$PROJECT_DIR$/Test/FirstSeleniumTest" />
+        <option value="$PROJECT_DIR$/SampleProjectPOM/Pages/homePage.py" />
+        <option value="$PROJECT_DIR$/SampleProjectPOMLocatorsAtOnePlace/Locators/locators.py" />
+        <option value="$PROJECT_DIR$/SampleProjectPOMLocatorsAtOnePlace/Pages/loginPage.py" />
+        <option value="$PROJECT_DIR$/SampleProjectPOMLocatorsAtOnePlace/Pages/homePage.py" />
+        <option value="$PROJECT_DIR$/SampleProjectPOM/Pages/loginPage.py" />
+        <option value="$PROJECT_DIR$/SampleProjectPOMLocatorsAtOnePlace/Tests/login.py" />
+        <option value="$PROJECT_DIR$/SampleProjectPOM/Tests/login.py" />
+        <option value="$PROJECT_DIR$/SampleProjectPyTest/sample.py" />
+        <option value="$PROJECT_DIR$/SampleProjectPyTest/test_sample.py" />
+        <option value="$PROJECT_DIR$/SampleProjectPyTest/test_sample_fixture" />
+        <option value="$PROJECT_DIR$/SampleProjectUnitTest/GoogleSearchTest.py" />
+        <option value="$PROJECT_DIR$/SampleProjectPyTest/test_sample_fixture.py" />
+        <option value="$PROJECT_DIR$/SampleProjectPyTest/test_sample_fixture_withClass.py" />
+        <option value="$PROJECT_DIR$/SampleProjectUnitTest/GoogleSearchHTMLReporter.py" />
       </list>
     </option>
   </component>
@@ -156,11 +155,6 @@
               <item name="Python_Selenium_Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Selenium_Project" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Python_Selenium_Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Selenium_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -172,9 +166,17 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python_workspace\Python_Selenium_Project\SampleProjects" />
+      <recent name="D:\python_workspace\Python_Selenium_Project\SampleProjectUnitTest" />
+      <recent name="D:\python_workspace\Python_Selenium_Project" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\python_workspace\Python_Selenium_Project\Test" />
-      <recent name="D:\python_workspace\FirstSeleniumProject\Test" />
+      <recent name="D:\python_workspace\Python_Selenium_Project\SampleProjectPyTest" />
+      <recent name="D:\python_workspace\Python_Selenium_Project" />
+      <recent name="D:\python_workspace\Python_Selenium_Project\SampleProjectPOMLocatorsAtOnePlace\Locators" />
+      <recent name="D:\python_workspace\Python_Selenium_Project\SampleProjectPOM\Pages" />
+      <recent name="D:\python_workspace\Python_Selenium_Project\SampleProjectPOM" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -189,8 +191,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.GoogleSearchTest">
-    <configuration name="GoogleSearchTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.Unittests in GoogleSearchHTMLReporter.py">
+    <configuration name="login" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FirstSeleniumProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -198,11 +200,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SampleProjectPOM/Tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/GoogleSearchTest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SampleProjectPOM/Tests/login.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,7 +213,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PythonDictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sample" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FirstSeleniumProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,11 +221,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SampleProjectPyTest" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/PythonDictionary.py" />
+      <option name="SCRIPT_NAME" value="D:\python_workspace\Python_Selenium_Project\SampleProjectPyTest\test_sample.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,83 +234,62 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PythonList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests in GoogleSearchHTMLReporter.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="FirstSeleniumProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SampleProjectUnitTest" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/PythonList.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/SampleProjectUnitTest/GoogleSearchHTMLReporter.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="PythonSet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests in GoogleSearchTest.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="FirstSeleniumProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SampleProjectUnitTest" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/PythonSet.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/SampleProjectUnitTest/GoogleSearchTest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="PythonTuple" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests in login.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="FirstSeleniumProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SampleProjectPOMLocatorsAtOnePlace/Tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/PythonTuple.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/SampleProjectPOMLocatorsAtOnePlace/Tests/login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.PythonList" />
-      <item itemvalue="Python.PythonTuple" />
-      <item itemvalue="Python.PythonSet" />
-      <item itemvalue="Python.PythonDictionary" />
-      <item itemvalue="Python.GoogleSearchTest" />
+      <item itemvalue="Python tests.Unittests in GoogleSearchTest.py" />
+      <item itemvalue="Python.login" />
+      <item itemvalue="Python tests.Unittests in login.py" />
+      <item itemvalue="Python.sample" />
+      <item itemvalue="Python tests.Unittests in GoogleSearchHTMLReporter.py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.GoogleSearchTest" />
-        <item itemvalue="Python.PythonDictionary" />
-        <item itemvalue="Python.PythonSet" />
-        <item itemvalue="Python.PythonList" />
-        <item itemvalue="Python.PythonTuple" />
+        <item itemvalue="Python tests.Unittests in GoogleSearchHTMLReporter.py" />
+        <item itemvalue="Python tests.Unittests in GoogleSearchTest.py" />
+        <item itemvalue="Python.sample" />
+        <item itemvalue="Python tests.Unittests in login.py" />
+        <item itemvalue="Python.login" />
       </list>
     </recent_temporary>
   </component>
@@ -325,16 +306,44 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_GoogleSearchTest_GoogleSearch - 2021.03.20 at 20h 01m 01s.xml">
+      <configuration name="Unittests for GoogleSearchTest.GoogleSearch" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_GoogleSearchTest_py - 2021.03.20 at 20h 01m 34s.xml">
+      <configuration name="Unittests in GoogleSearchTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_GoogleSearchTest_HTMLReporter_py - 2021.03.20 at 20h 15m 15s.xml">
+      <configuration name="Unittests in GoogleSearchTest.HTMLReporter.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_GoogleSearchHTMLReporter_GoogleSearch - 2021.03.20 at 20h 16m 36s.xml">
+      <configuration name="Unittests for GoogleSearchHTMLReporter.GoogleSearch" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_GoogleSearchTest_py - 2021.03.20 at 23h 28m 23s.xml">
+      <configuration name="Unittests in GoogleSearchTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_login_py - 2021.03.21 at 03h 32m 31s.xml">
+      <configuration name="Unittests in login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_GoogleSearchTest_py - 2021.03.21 at 04h 53m 40s.xml">
+      <configuration name="Unittests in GoogleSearchTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_GoogleSearchHTMLReporter_py - 2021.03.21 at 15h 20m 04s.xml">
+      <configuration name="Unittests in GoogleSearchHTMLReporter.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_GoogleSearchHTMLReporter_py - 2021.03.21 at 15h 20m 48s.xml">
+      <configuration name="Unittests in GoogleSearchHTMLReporter.py" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17838542" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19335938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32692307" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32967034" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49934897" visible="true" weight="0.32967034" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997253" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -342,7 +351,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32991454" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32944915" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50065106" side_tool="true" weight="0.32967034" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -351,9 +360,42 @@
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19335938" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32692307" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49934897" weight="0.32967034" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997253" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32991454" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50065106" side_tool="true" weight="0.32967034" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Test/FirstSeleniumTest</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Test/PythonFunctions.py">
@@ -375,20 +417,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
-          <folding>
-            <marker date="1616098577425" expanded="true" signature="365:722" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/ClassFunctionDemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-          <folding>
-            <marker date="1616239414555" expanded="true" signature="88:93" ph="..." />
-            <marker date="1616239414555" expanded="true" signature="218:288" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -413,16 +441,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/FirstSeleniumTest">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Test/GoogleSearchTest">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -430,21 +448,205 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/GoogleSearchTest.py">
+    <entry file="file://$PROJECT_DIR$/Test/PythonList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+        <state relative-caret-position="168">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleProjectUnitTest/GoogleSearchTest.HTMLReporter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
-            <marker date="1616250278901" expanded="true" signature="146:408" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/PythonList.py">
+    <entry file="file://$PROJECT_DIR$/Test/ClassFunctionDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleProjectUnitTest/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/FirstSeleniumTest">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="239" column="8" selection-start-line="239" selection-start-column="8" selection-end-line="239" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleProjectPOM/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleProjectPOM/Pages/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleProjectPOMLocatorsAtOnePlace/Pages/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleProjectPOMLocatorsAtOnePlace/Locators/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleProjectPyTest/Pages/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleProjectPOMLocatorsAtOnePlace/Pages/loginPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="72" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonBasics/ClassFunctionDemo.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleProjectPyTest/test_sample_fixture">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleProjectUnitTest/GoogleSearchTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+            <marker date="1616282628294" expanded="true" signature="134:413" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleProjectPOM/Pages/homePage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="80" lean-forward="true" selection-start-line="11" selection-start-column="80" selection-end-line="11" selection-end-column="80" />
+          <folding>
+            <marker date="1616276957421" expanded="true" signature="18:19" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleProjectPOM/Tests/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleProjectPOM/Pages/loginPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="47" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="47" />
+          <folding>
+            <marker date="1616278929528" expanded="true" signature="18:19" ph="..." />
+            <marker date="1616278929528" expanded="true" signature="18:24" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleProjectPOMLocatorsAtOnePlace/Locators/locators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="23" />
+          <folding>
+            <marker date="1616277433673" expanded="true" signature="17:18" ph="..." />
+            <marker date="1616277433673" expanded="true" signature="17:23" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleProjectPyTest/.pytest_cache/v/cache/lastfailed">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleProjectPyTest/test_sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <marker date="1616281893028" expanded="true" signature="67:68" ph="..." />
+            <marker date="1616281893028" expanded="true" signature="283:584" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleProjectPyTest/test_sample_fixture.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleProjectPyTest/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleProjectPOMLocatorsAtOnePlace/Pages/homePage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="65" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleProjectPOMLocatorsAtOnePlace/Tests/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="24" column="64" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleProjectUnitTest/GoogleSearchHTMLReporter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonBasics/PythonDictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-801" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleProjectPyTest/test_sample_fixture_withClass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+            <marker date="1616320129689" expanded="true" signature="65:67" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
